@@ -1,14 +1,18 @@
 # SOLO_SQUAD Student Team Members Management Application
 
-A full-stack web application for managing student team members, built with the MERN stack (MongoDB, Express, React, and Node.js).
+A comprehensive full-stack web app designed to manage student team members, developed using the MERN stack—MongoDB, Express.js, React, and Node.js.
 
 ## Features
 
-- Display team name across the application
-- Add new team members with profile images
-- View all team members in a responsive grid layout
-- View detailed information about individual team members
-- RESTful API endpoints for member data management
+* Display the team name consistently throughout the application
+
+* Add new team members along with their profile pictures
+
+* Browse all team members in a responsive grid layout
+
+* Access detailed profiles for each team member
+
+* Utilize RESTful API endpoints to manage member data
 
 ## Project Structure
 
