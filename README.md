@@ -1,4 +1,4 @@
-# FALCONS Student Team Members Management Application
+# SOLO_SQUAD Student Team Members Management Application
 
 A full-stack web application for managing student team members, built with the MERN stack (MongoDB, Express, React, and Node.js).
 
@@ -50,7 +50,7 @@ A full-stack web application for managing student team members, built with the M
 
 2. Navigate to the project directory:
    ```bash
-   cd FALCONS_FSDCT2
+   cd SOLO_FSD_CT2
    ```
 
 ### Backend Setup
@@ -143,7 +143,7 @@ A full-stack web application for managing student team members, built with the M
 
 ## Team
 
-- FALCONS Team
+- SOLO_SQUAD Team
 
 ## License
 
